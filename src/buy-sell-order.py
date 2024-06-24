@@ -1,6 +1,6 @@
-class Main:
+class Buy_Sell:
     def __init__(self):
         pass
 
-    def main(self):
+    def buy_order(self):
         pass
